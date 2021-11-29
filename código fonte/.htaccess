@@ -1,0 +1,4 @@
+ErrorDocument 403 /tfg/403.php
+ErrorDocument 404 /tfg/404.php
+ErrorDocument 500 /tfg/500.php
+Options -Indexes
